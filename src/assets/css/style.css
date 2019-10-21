@@ -1,0 +1,40 @@
+.registration-form label {
+    text-align: left !important;
+}
+.registration-form legend {
+    text-align: left !important;
+}
+  
+.form-control,.custom-select {
+    width: 100%;
+    float: left;
+    margin: 0px 0px 25px 0px;
+}
+
+fieldset {
+    min-width: 100%;
+    text-align: left;
+}
+
+
+/* white-space: pre-wrap; */
+
+.modal-form-content{
+    padding: 10px
+}
+
+.content-label{
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.content-value{
+    font-size: 18px;
+}
+
+.container {
+    width: 70%;
+    margin-top: 20px;
+    background-color: antiquewhite;
+    padding: 30px 100px;
+}
